@@ -1,0 +1,6 @@
+model.zip
+learning_curve.png
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
